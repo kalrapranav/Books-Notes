@@ -32,6 +32,9 @@
 The moral corruption of people in power, which is often facilitated by a tendency for people to look the other way when their leaders act inappropriately.
 
 * Even lower-level employees and ordinary individuals can find themselves in the middle of ethical dilemmas such as Edward Snowden and Mark Lillie
+
+![3](https://user-images.githubusercontent.com/19777060/57397773-40e5cd00-7182-11e9-8a05-4293f5f50b4e.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57397775-43482700-7182-11e9-8cec-0cfebfa728d2.PNG)
 ---
 
 ## Corprate Social Responsibility
@@ -40,4 +43,24 @@ It is the concept that an organisation should act ethically by taking responsibi
 An organization’s approach to CSR can encompass a wide variety of tactics—from donating a portion of net profit to charity to implementing more sustainable business operations or encouraging employee education through tuition reimbursement. 
 
 Setting CSR goals encourages an organization to achieve higher moral and ethical standards.
+
+![4](https://user-images.githubusercontent.com/19777060/57397810-5bb84180-7182-11e9-9dac-a21e398f2415.PNG)
+
+## Supply chain sustainability
+It is a component of CSR that focuses on developing and maintaining a supply chain that meets the needs of the present without compromising the ability of future generations to meet their needs. 
+
+Supply chain sustainability takes into account issues such as fair labor practices, energy and resource conservation, human rights, and community responsibility.
+
+In many cases, meeting supply chain sustainability goals can also lead to lower costs. E.g. in t6he case of [Dell](http://i.dell.com/sites/doccontent/corporate/corp-comm/en/Documents/fy15-cr-report.pdf)
+
+However, if striving to meet a specific CSR goal leads to a decrease in profits, senior management may be challenged to modify or drop that CSR goal entirely.
+
+---
+## Why Fostering Corporate Social Responsibility and Good Business Ethics Is Important?
+Organizations have at least five good reasons to pursue CSR goals and to promote a work environment in which employees are encouraged to act ethically when making business decisions:
+* Gaining the goodwill of the community
+* Creating an organisation that operates consistently
+* Fostering good business practices
+* Protecting the organisation and its employees from legal action
+* Avoiding unfavorable publicity
 
