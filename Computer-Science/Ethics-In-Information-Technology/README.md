@@ -32,3 +32,5 @@
 The moral corruption of people in power, which is often facilitated by a tendency for people to look the other way when their leaders act inappropriately.
 
 * Even lower-level employees and ordinary individuals can find themselves in the middle of ethical dilemmas such as Edward Snowden and Mark Lillie
+
+![2](https://user-images.githubusercontent.com/19777060/57397128-dbdda780-7180-11e9-8e50-3b44f624c81b.PNG)
