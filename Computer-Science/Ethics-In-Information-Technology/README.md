@@ -51,7 +51,7 @@ It is a component of CSR that focuses on developing and maintaining a supply cha
 
 Supply chain sustainability takes into account issues such as fair labor practices, energy and resource conservation, human rights, and community responsibility.
 
-In many cases, meeting supply chain sustainability goals can also lead to lower costs. E.g. in t6he case of [Dell](http://i.dell.com/sites/doccontent/corporate/corp-comm/en/Documents/fy15-cr-report.pdf)
+In many cases, meeting supply chain sustainability goals can also lead to lower costs. E.g. in the case of [Dell](http://i.dell.com/sites/doccontent/corporate/corp-comm/en/Documents/fy15-cr-report.pdf)
 
 However, if striving to meet a specific CSR goal leads to a decrease in profits, senior management may be challenged to modify or drop that CSR goal entirely.
 
@@ -63,4 +63,13 @@ Organizations have at least five good reasons to pursue CSR goals and to promote
 * Fostering good business practices
 * Protecting the organisation and its employees from legal action
 * Avoiding unfavorable publicity
+
+## Gaining the Goodwill of the community
+Although organizations exist primarily to earn profits or provide services to customers, they also have some fundamental responsibilities to society. 
+
+Philanthropy is one way in which an organization can demonstrate its values in action and make a positive connection with its stakeholders.
+
+The goodwill that CSR activities generate can make it easier for corporations to conduct their business. 
+
+For example, a company known for treating its employees well will find it easier to compete for the top job candidates. On the other hand, businesses that are not socially responsible run the risk of alienating their customer base. 
 
