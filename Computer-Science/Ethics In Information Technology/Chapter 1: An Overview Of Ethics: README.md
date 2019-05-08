@@ -73,3 +73,17 @@ The goodwill that CSR activities generate can make it easier for corporations to
 
 For example, a company known for treating its employees well will find it easier to compete for the top job candidates. On the other hand, businesses that are not socially responsible run the risk of alienating their customer base. 
 
+## Creating an Organisation That Operates Consistently
+Organizations develop and abide by values to create an organizational culture and to define a consistent approach for dealing with the needs of their stakeholders—shareholders, employees, customers, suppliers, and the community. 
+
+Such a consistency ensures that employees know what is expected of them and can employ the organization’s values to help them in their decision making. Consistency also means that shareholders, customers, suppliers, and the community know what they can expect of the organization
+
+#### Although each company’s value system is different, many share the following values:
+* Operate with honesty and integrity, staying true to organizational principles
+* Operate according to standards of ethical conduct, in words and action
+* Treat colleagues, customers, and consumers with respect
+* Strive to be the best at what matters most to the organization
+* Value diversity
+* Make decisions based on facts and principles
+
+
