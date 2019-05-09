@@ -47,8 +47,23 @@ Today’s computer menace is much better organized and may be part of an organiz
 Some of these groups have ample resources, including money and sophisticated tools to support their efforts. 
 
 Today’s computer attacker has greater depth of knowledge and expertise in getting around computer and network security safeguards.
+
 ![2](https://user-images.githubusercontent.com/19777060/57427020-e4f96380-71d6-11e9-9397-e785cd5c7d28.PNG)
 ---
+
+## Type of Exploits 
+
+### Ransomware
+It malware that stops you from using your computer or accessing your data until you meet certain demands, such as paying a ransom or sending photos to the attacker. 
+
+A computer becomes infected with ransomware when a user opens an email attachment containing the malware or is lured to a compromised website by a deceptive email or pop-up window. Ransomware can also be spread through removable USB drives or by texting applications such as Yahoo Messenger, with the payload disguised as an image.
+
+### Viruses
+It a piece of programming code, usually disguised as something else, that causes a computer to behave in an unexpected and usually undesirable manner. 
+
+For example, a virus may be programmed to display a certain message on an infected computer’s display screen, delete or modify a certain document, or reformat the hard drive.
+
+**Macro  uses have become a common and easily created form of virus. Attackers use an application macro language (such as Visual Basic or VBScript) to create programs that infect documents and templates. After an infected document is opened, the virus is executed and infects the user’s application templates.
 
 
 
