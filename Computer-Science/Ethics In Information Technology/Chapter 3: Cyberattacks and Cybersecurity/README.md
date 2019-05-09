@@ -140,6 +140,31 @@ In a phishing scam, con artists send legitimate-looking emails urging the recipi
 
 The requested action may involve clicking on a link to a website or opening an email attachment. 
 
+![1](https://user-images.githubusercontent.com/19777060/57432559-12500c80-71eb-11e9-98ed-27086b3dbd0b.PNG)
+
+**Spear phishing** is a variation of phishing in which the phisher sends fraudulent emails to a certain organization’s employees. 
+
+It is known as spear phishing because the attack is much more precise and narrow, like the tip of a spear. The phony emails are designed to look like they came from high-level executives within the organization. Employees are directed to a fake website and then asked to enter personal information, such as name, Social Security number, and network passwords. 
+
+### Smishing and Vishing
+Smishing is another variation of phishing that involves the use of texting.
+
+In a smishing scam, people receive a legitimate-looking text message telling them to call a specific phone number or log on to a website. 
+
+This is often done under the guise that there is a problem with the recipient’s bank account or credit card that requires immediate attention. However, the phone number or website is phony and is used to trick unsuspecting victims into providing personal information such as a bank account number, personal identification number, or credit card number, which can then be used to steal money from victims’ bank accounts, charge purchases on their credit cards, or open new accounts. 
+
+**vishing** is similar to smishing except that the victims receive a voice-mail message telling them to call a phone number or access a website
+
+### Cyberespionage
+cyberespionage involves the deployment of malware that secretly steals data in the computer systems of organizations, such as government agencies, military contractors, political organizations, and manufacturing firms. 
+
+The type of data most frequently targeted includes data that can provide an unfair competitive advantage to the perpetrator.
+
+### Cyberterrorism
+cyberterrorism is the intimidation of government or civilian population by using information technology to disable critical national infrastructure
+
+
+
 
 
 
