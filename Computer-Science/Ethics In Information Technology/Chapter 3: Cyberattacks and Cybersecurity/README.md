@@ -163,6 +163,10 @@ The type of data most frequently targeted includes data that can provide an unfa
 ### Cyberterrorism
 cyberterrorism is the intimidation of government or civilian population by using information technology to disable critical national infrastructure
 
+---
+## Federal Laws for Prosecuting Computer Attacks
+***Section 814 of the USA Patriot Act*** defines cyberterrorism as any hacking attempts designed to gain unauthorized access to a protected computer, which, if successful, would cause a person an aggregate loss greater than $5,000; adversely affect someone’s medical examination, diagnosis, or treatment; cause a person to be injured; cause a threat to public health or safety; or cause damage to a governmental computer that is used as a tool to administer justice, national defense, or national security.
+
 
 
 
