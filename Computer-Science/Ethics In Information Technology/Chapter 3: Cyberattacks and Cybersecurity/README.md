@@ -63,8 +63,70 @@ It a piece of programming code, usually disguised as something else, that causes
 
 For example, a virus may be programmed to display a certain message on an infected computer’s display screen, delete or modify a certain document, or reformat the hard drive.
 
-**Macro  uses have become a common and easily created form of virus. Attackers use an application macro language (such as Visual Basic or VBScript) to create programs that infect documents and templates. After an infected document is opened, the virus is executed and infects the user’s application templates.
+**Macro viruses** have become a common and easily created form of virus. Attackers use an application macro language (such as Visual Basic or VBScript) to create programs that infect documents and templates. 
 
+After an infected document is opened, the virus is executed and infects the user’s application templates.
+
+### Worms
+It is a harmful program that resides in the active memory of the computer and duplicates itself.
+
+Worms differ from viruses in that they can propagate without human intervention, often sending copies of themselves to other computers by email.
+
+A worm is capable of replicating itself on your computer so that it can potentially send out thousands of copies of itself to everyone in your email address book
+
+### Trojan Horses
+A Trojan horse is a seemingly harmless program in which malicious code is hidden.
+
+A victim on the receiving end of a Trojan horse is usually tricked into opening it because it appears to be useful software from a legitimate source, such as an update for software the user currently has installed on his or her computer. 
+
+A Trojan horse often creates a “backdoor” on a computer that enables an attacker to gain future access to the system and compromise confidential or private information.
+
+Another type of Trojan horse is a **logic bomb**, which executes when it is triggered by a specific event. For example, logic bombs can be triggered by a change in a particular file, by typing a specific series of keystrokes, or at a specific time or date.
+
+
+### Blended Threat
+A blended threat is a sophisticated threat that combines the features of a virus, worm, Trojan horse, and other malicious code into a single payload. 
+
+A blended threat attack might use server and Internet vulnerabilities to initiate and then transmit and spread an attack on an organization’s computing devices, using multiple modes to transport itself, including email, Internet Relay Chat (IRC), and file-sharing networks. 
+
+Rather than launching a narrowly focused attack on specific EXE files, a blended threat might attack multiple EXE files, HTML files, and registry keys simultaneously.
+
+### Spam
+Email spam is the use of email systems to send unsolicited email to large numbers of people. 
+
+Most spam is a form of low-cost commercial advertising, sometimes for questionable products such as pornography, phony get-rich-quick schemes, and worthless stock.
+
+ #### Controlling the Assault of Non-Solicited Pornography and Marketing (CAN-SPAM) Act 
+ It is legal to spam, provided the messages meet a few basic requirements: 
+* Spammers cannot disguise their identity by using a false return address
+* The email must include a label specifying that it is an ad or a solicitation
+* The email must include a way for recipients to indicate that they do not want future mass mailings.
+
+Despite CAN-SPAM and other measures, the percentage of spam in email messages averaged 57 percent in one week in January, 2015, according to Trustwave, an organization that helps businesses protect data and reduce security risk.
+
+A **partial solution** to this problem is the use of CAPTCHA to ensure that only humans obtain free accounts. 
+
+**CAPTCHA (Completely Automated Public Turing Test to Tell Computers and Humans Apart)** software generates and grades tests that humans can pass and all but the most sophisticated computer programs cannot. 
+
+![3](https://user-images.githubusercontent.com/19777060/57427885-b8474b00-71da-11e9-851d-0b1a9705dd18.PNG)
+
+### DDoS Attacks
+A distributed denial-of-service (DDoS) attack is one in which a malicious hacker takes over computers via the Internet and causes them to flood a target site with demands for data and other small tasks. 
+
+A DDoS attack does not involve infiltration of the targeted system. Instead, it keeps the target so busy responding to a stream of automated requests that legitimate users cannot get in.
+
+The term **botnet** is used to describe a large group of such computers, which are controlled from one or more remote locations by hackers, without the knowledge or consent of their owners.
+
+Based on a command by the attacker or at a preset time, the botnet computers **(called zombie)** go into action, each sending a simple request for access to the target site again and again—dozens of times per second. 
+
+The target computers become so overwhelmed by requests for service that legitimate users are unable to get through to the target computer.
+
+### Rootkit
+A rootkit is a set of programs that enables its user to gain administrator-level access to a computer without the end user’s consent or knowledge. Once installed, the attacker can gain full control of the system and even obscure the presence of the rootkit from legitimate system administrators.
+
+Attackers can use the rootkit to execute files, access logs, monitor user activity, and change the computer’s configuration.
+
+### Advanced Persistent Threat
 
 
 
