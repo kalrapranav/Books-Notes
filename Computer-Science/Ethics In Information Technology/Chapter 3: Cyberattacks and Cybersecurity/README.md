@@ -127,6 +127,18 @@ A rootkit is a set of programs that enables its user to gain administrator-level
 Attackers can use the rootkit to execute files, access logs, monitor user activity, and change the computer’s configuration.
 
 ### Advanced Persistent Threat
+An advanced persistent threat (APT) is a network attack in which an intruder gains access to a network and stays there—undetected—with the intention of stealing data over a long period of time (weeks or even months). 
+
+Attackers in an APT must continuously rewrite code and employ sophisticated evasion techniques to avoid discovery. 
+
+APT attacks target organizations with high-value information, such as banks and financial institutions, government agencies, and insurance companies with the goal of stealing data rather than disrupting services. 
+
+### Phishing
+phishing is the act of fraudulently using email to try to get the recipient to reveal personal data. 
+
+In a phishing scam, con artists send legitimate-looking emails urging the recipient to take action to avoid a negative consequence or to receive a reward. 
+
+The requested action may involve clicking on a link to a website or opening an email attachment. 
 
 
 
