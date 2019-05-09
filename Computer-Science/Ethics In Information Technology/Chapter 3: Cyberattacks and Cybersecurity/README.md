@@ -41,6 +41,16 @@ Any delay in installing a patch exposes the user to a potential security breach.
 
 ![1](https://user-images.githubusercontent.com/19777060/57426818-d3fc2280-71d5-11e9-8a9a-0fb467ed94f5.PNG)
 
+### Increasing Sophistication of Those Who Would Do Harm
+Today’s computer menace is much better organized and may be part of an organized group (for example, Anonymous, Chaos Computer Club, Lizard Squad, TeslaTeam, and hacker teams sponsored by national governments) that has an agenda and targets specific organizations and websites. 
+
+Some of these groups have ample resources, including money and sophisticated tools to support their efforts. 
+
+Today’s computer attacker has greater depth of knowledge and expertise in getting around computer and network security safeguards.
+![2](https://user-images.githubusercontent.com/19777060/57427020-e4f96380-71d6-11e9-9397-e785cd5c7d28.PNG)
+---
+
+
 
 
 
