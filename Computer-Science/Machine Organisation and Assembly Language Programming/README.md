@@ -120,7 +120,25 @@ M6800 having 24bit address means it has 2^24 possible address available.
 ![1](https://user-images.githubusercontent.com/19777060/57582295-a7ffcc00-7477-11e9-8655-ff5fa88e749b.PNG)
 
 **Example:** The Intel pentium family of CPU's has a 32-bit address bus. What is the maximum amount of RAM that can be installed in such system?    
-2<sup>32</sup> = 2\^2 \* 2
+2<sup>32</sup> = 2^2 \* 2^30 = 4 \* 1GB = 4GB (as, 2^30 = 1GB)  \[max memory]\
+![2](https://user-images.githubusercontent.com/19777060/57582384-04172000-7479-11e9-9c76-b0fd60add7cc.PNG)
+
+#### Address Ranges  
+Address are given in binary, (usally) hexadecimal but never in decimal.  
+The address 0 is always the first byte in the memory.   
+To find the last byte in the memory, we must take a quantity of RAM, express it in KB, MB, GB and convert it in hex and subtract 1 from it (as memory starts a 0).    
+
+**Example:** Give the range of valid address for M6800 system configured with 16MB RAM  
+16 MB = 16 * 1MB  = 16 * 2^20 = 2^4 * 2^20 = 2^24 = 16^6 = 1000000 - 1 = 00FF FFFF  (for 16^x in hex it will represented as 1 follwed by x zeros)   
+![3](https://user-images.githubusercontent.com/19777060/57582471-1776bb00-747a-11e9-815e-fcaa197a718a.PNG)  
+
+#### The Data Bus  
+The data in the memory of M6800 is recived in 16-bits as it is 16bit wide.   
+So, to fetch a longword it is a two step process.   
+
+#### The Control Bus
+![4](https://user-images.githubusercontent.com/19777060/57582539-c5826500-747a-11e9-8946-791b0d3fa6b0.PNG)
+
 
 
 
