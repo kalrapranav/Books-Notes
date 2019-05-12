@@ -78,6 +78,15 @@ You can't have duplicate labels in your code
 The value for labels are their addresses  
 They should always ebnd with a colon
 
+### Instructions 
+Most instructions are size specific   
+
+![5](https://user-images.githubusercontent.com/19777060/57579495-71af5600-7451-11e9-84bf-ba9a12d1ce3a.PNG)
+
+For size specific instructions, if the size is ommited then usally it is a word. So, move and move.w will be same. 
+
+![5](https://user-images.githubusercontent.com/19777060/57579509-c2bf4a00-7451-11e9-8b10-3bb41c4962b3.PNG)
+
 
 
 
