@@ -20,13 +20,44 @@ So, 10 + (-10) = 0
 0000 1010 + 1111 0110 = 0000 0000
 
 ### Range of value for diffrent datatypes
-* byte \hspace{12pts}        -128...127                        80...7F
-* word                           8000...7FFF
-* longword        8000 000...7FFF FFF
 
 | Size            | Range of Values  | Range in Hex    |
 | :------------- | :----------:     | -----------:    |
 |  Byte          |  -128...127      | 80...7F          |
 |  Word          | -32,768...32768  | 8000.7FFF     |
 | Longword       | -2,147,483,648...2,147,483,647 | 8000 0000...7FFF FFF \|
+
+#### Some Observations: 
+* Non-negative numbers always start with 0 (binary)
+* Non-negative number always start with 0..7 (hex)
+* Negative number always start with 1 (binary)
+* Negative number always start with 0..7 (hex)
+
+Write about connversion later 
+
+## First Steps in Assembly Language Programming
+We will be using bsvc simulator system for running our porgrams 
+
+Assembly langauge code is divided into four sections: 
+* Comments/Documentation
+* Assembler and Macro Pre-processor directives
+* The Code
+* Storage Allocation
+
+All programs must begin with Comments/Documention block  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
