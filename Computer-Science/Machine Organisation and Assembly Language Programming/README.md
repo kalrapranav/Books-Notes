@@ -162,8 +162,6 @@ alpha: dc.l $01234567
 
 ![3](https://user-images.githubusercontent.com/19777060/57582737-26ab3800-747d-11e9-8ec6-922c65b66992.PNG)
 
-<div style="page-break-after: always;"></div>
-sIJDHAJSDJASDJBD
 
 
 
