@@ -161,6 +161,42 @@ alpha: dc.l $01234567
 ![2](https://user-images.githubusercontent.com/19777060/57582723-f2d01280-747c-11e9-8ae2-2c9d2d36f862.PNG)
 
 ![3](https://user-images.githubusercontent.com/19777060/57582737-26ab3800-747d-11e9-8ec6-922c65b66992.PNG)
+---
+
+## Addressing Modes
+![4](https://user-images.githubusercontent.com/19777060/57583144-6d4f6100-7482-11e9-8ea3-d66327daa609.PNG)
+
+#### Intermediate #N
+It is used to specify constants-hard coded numbers.   
+The operand must me preceded y #.   
+move.w  #2,D1  
+
+#### Absolute Long <ea>  
+The operand is a 32 bit number representing the address in the memory to be accessed. 
+  ![5](https://user-images.githubusercontent.com/19777060/57583222-2746cd00-7483-11e9-976b-ed86b024bdd5.PNG)
+
+![1](https://user-images.githubusercontent.com/19777060/57583234-4a717c80-7483-11e9-8459-0d1c31014930.PNG)
+
+![2](https://user-images.githubusercontent.com/19777060/57583252-6f65ef80-7483-11e9-9ae5-e3d11e111815.PNG)  
+![3](https://user-images.githubusercontent.com/19777060/57583284-dd121b80-7483-11e9-809c-69b96d917d21.PNG)
+
+![1](https://user-images.githubusercontent.com/19777060/57583302-0cc12380-7484-11e9-9467-5e263607c70b.PNG)  
+![2](https://user-images.githubusercontent.com/19777060/57583316-2b271f00-7484-11e9-9b77-b03a16e9bda6.PNG)
+
+---
+## Labels vs Variables 
+There are no variables in Assembly Language as labels are storage allocated not memory locations.   
+In higher level langugaes the system keeps the tracks of **tye, size, location** of the variable.  
+But in Assembly Language the programmer have to keep the track of these three. 
+
+In Assembly labels associated with each other unlike higher level language being unrealted. 
+![3](https://user-images.githubusercontent.com/19777060/57583427-5eb67900-7485-11e9-9bd0-38d256a62406.PNG)  
+
+
+
+
+
+
 
 
 
