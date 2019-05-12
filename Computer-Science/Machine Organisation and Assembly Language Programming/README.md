@@ -108,9 +108,17 @@ The bus is a collection of parallel data and signal lines that is divided into t
 Physical memory in a computer system (RAM) can be though as an array of bytes starting at 0.  
 For readind and writing of data we need to provide the location of the address (as idx in a array).  
 The address must be placed on the address bus befire executing the operation.  
-**M6800 CPU** has a 24 bit address bus -> address are limited to 24 but value
+**M6800 CPU** has a 24 bit address bus -> address are limited to 24 bit value
 
 ![4](https://user-images.githubusercontent.com/19777060/57582230-06787a80-7477-11e9-8e7b-6cce9c7d1ff1.PNG)
+
+#### RAM Quantities
+The amount of the RAM that can be installed in a system depends on the size of the address bus.  
+M6800 having 24bit address means it has 2^24 possible address available.  
+
+16 \* 1MB  
+![1](https://user-images.githubusercontent.com/19777060/57582295-a7ffcc00-7477-11e9-8655-ff5fa88e749b.PNG)
+
 
 
 
