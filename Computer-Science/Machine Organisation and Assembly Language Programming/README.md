@@ -139,6 +139,14 @@ So, to fetch a longword it is a two step process.
 #### The Control Bus
 ![4](https://user-images.githubusercontent.com/19777060/57582539-c5826500-747a-11e9-8946-791b0d3fa6b0.PNG)
 
+## Addressing Memory and Register Contents
+![5](https://user-images.githubusercontent.com/19777060/57582565-1b570d00-747b-11e9-9a54-6c4fc4f3342e.PNG)
+
+![2](https://user-images.githubusercontent.com/19777060/57582585-4e999c00-747b-11e9-9a80-44c4af805910.PNG)
+
+#### Registers
+
+
 
 
 
