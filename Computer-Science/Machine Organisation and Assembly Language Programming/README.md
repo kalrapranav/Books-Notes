@@ -204,6 +204,25 @@ In Assembly labels associated with each other unlike higher level language being
 ![4](https://user-images.githubusercontent.com/19777060/57586566-4efe5b00-74ac-11e9-9a62-8d6e0460d114.PNG)
 ![5](https://user-images.githubusercontent.com/19777060/57586567-50c81e80-74ac-11e9-8280-771b36470cf7.PNG)
 
+## Branch Instructions
+Branh instructiojs allows to repaet a certian set of instruction, an arbitrary number of times with a 
+conditional execution.
+For Branching a memory address is loaded in the program counter and with every execution teh counter is increased
+and the execuion stops when we reach at the end of the counter. 
+Most languages Suport two types of branch instructions:
+* if(consition) then goto <label>  -. Conditinal branching
+* goto <label> -> unconditional branching
+  
+For Unconditional branching two set of instructions are required as: 
+1) Some condition
+2) If TRUE do this, FALSE do that
+But CPU can only perform one instruction at a time so we have to keep track of the condition as the CPU would not 
+remember the result. 
+This issue can be solved by status register
+
+#### SR (Status Register)
+SR is a 16 bit register, where the upper half is for system programming and lower half is CCR (Condition Code Register)
+
 
 
 
