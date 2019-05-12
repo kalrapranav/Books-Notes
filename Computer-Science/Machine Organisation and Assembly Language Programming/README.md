@@ -45,6 +45,9 @@ Assembly langauge code is divided into four sections:
 * Storage Allocation
 
 All programs must begin with Comments/Documention block  
+Comments in the assembler begin with \* or ;  
+****
+
 
 
 
