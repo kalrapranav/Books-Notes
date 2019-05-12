@@ -190,7 +190,21 @@ In higher level langugaes the system keeps the tracks of **tye, size, location**
 But in Assembly Language the programmer have to keep the track of these three. 
 
 In Assembly labels associated with each other unlike higher level language being unrealted. 
-![3](https://user-images.githubusercontent.com/19777060/57583427-5eb67900-7485-11e9-9bd0-38d256a62406.PNG)  
+![3](https://user-images.githubusercontent.com/19777060/57583427-5eb67900-7485-11e9-9bd0-38d256a62406.PNG) 
+
+## Bitwise & Logical Operator
+
+![1](https://user-images.githubusercontent.com/19777060/57586528-f333d200-74ab-11e9-8799-0e181c203a9b.PNG)
+
+#### Shift Operations 
+
+![2](https://user-images.githubusercontent.com/19777060/57586541-165e8180-74ac-11e9-99cf-3390536feb6c.PNG)
+![3](https://user-images.githubusercontent.com/19777060/57586551-2c6c4200-74ac-11e9-902a-91e264a01cfb.PNG)
+
+![4](https://user-images.githubusercontent.com/19777060/57586566-4efe5b00-74ac-11e9-9a62-8d6e0460d114.PNG)
+![5](https://user-images.githubusercontent.com/19777060/57586567-50c81e80-74ac-11e9-8280-771b36470cf7.PNG)
+
+
 
 
 
