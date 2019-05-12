@@ -120,7 +120,7 @@ M6800 having 24bit address means it has 2^24 possible address available.
 ![1](https://user-images.githubusercontent.com/19777060/57582295-a7ffcc00-7477-11e9-8655-ff5fa88e749b.PNG)
 
 **Example:** The Intel pentium family of CPU's has a 32-bit address bus. What is the maximum amount of RAM that can be installed in such system?    
-2<sup>32</sup> = 2/^2 /* 2
+2<sup>32</sup> = 2\^2 \* 2
 
 
 
