@@ -53,11 +53,32 @@ Setup info is used by allocate the memory area in the assembler adn also set teh
 
 **#minclue** import the I/O and error handling marcos
 
-![2](https://user-images.githubusercontent.com/19777060/57579366-ac17f380-744f-11e9-9923-2b32c61d7679.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57579366-ac17f380-744f-11e9-9923-2b32c61d7679.PNG)  
+
 begins with **start:**  
 **initIO** macro initializes the I/O for teh system
 when the **break** instruction is encountred teh excution is halted
-Machine instructions are not **not case sensetive**
+Machine instructions are not **not case sensetive** 
+
+![3](https://user-images.githubusercontent.com/19777060/57579435-88a17880-7450-11e9-95f5-f9ba0fad6ee9.PNG)
+
+In assembler the formating of code is required and consist of four columns  
+**First Coloumn** is for labels or comments only
+**Second Coloumn** is for Instructions 
+**Third Coloumns** is fr operands  
+**Fourth Colummns** is optional and is for comments   
+The space btw two coloumsn must me more than a space or a tab  
+
+![4](https://user-images.githubusercontent.com/19777060/57579442-aa026480-7450-11e9-897d-07e08f19fbc3.PNG)
+
+### Labels 
+Only the first 8 character in a label are siginificant as the assembler ignores after that  
+Thus my_label1 and my_label2 would be treated as same  
+You can't have duplicate labels in your code 
+The value for labels are their addresses  
+They should always ebnd with a colon
+
+
 
 
 
