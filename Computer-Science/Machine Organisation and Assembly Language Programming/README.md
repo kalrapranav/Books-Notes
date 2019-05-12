@@ -1,6 +1,5 @@
 # Machine Organisation and Assembly Language Programming
 
-[Another paragraph](#paragraph2)
 ## One's Complement
 Negative number is simply represented by Flipping all the bits of the positive Number
 0 -> 1 || 1 -> 0    
@@ -79,7 +78,7 @@ You can't have duplicate labels in your code
 The value for labels are their addresses  
 They should always ebnd with a colon
 
-### Instructions <a name="paragraph2"></a>
+### Instructions 
 Most instructions are size specific   
 
 ![5](https://user-images.githubusercontent.com/19777060/57579495-71af5600-7451-11e9-84bf-ba9a12d1ce3a.PNG)
@@ -87,6 +86,14 @@ Most instructions are size specific
 For size specific instructions, if the size is ommited then usally it is a word. So, move and move.w will be same. 
 
 ![5](https://user-images.githubusercontent.com/19777060/57579509-c2bf4a00-7451-11e9-8b10-3bb41c4962b3.PNG)
+
+### Operand 
+The Operand feils must have either one or two and they should be comma sperayed without a space btw them 
+
+**Storage Allocation** should be done after the break instruction
+
+![1](https://user-images.githubusercontent.com/19777060/57579558-f189f000-7452-11e9-8e07-a1f03b0ac3fd.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57579578-3e6dc680-7453-11e9-80ad-6dda7a22366a.PNG)
 
 
 
