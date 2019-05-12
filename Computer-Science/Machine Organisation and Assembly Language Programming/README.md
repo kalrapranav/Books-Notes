@@ -1,5 +1,6 @@
 # Machine Organisation and Assembly Language Programming
 
+[Another paragraph](#paragraph2)
 ## One's Complement
 Negative number is simply represented by Flipping all the bits of the positive Number
 0 -> 1 || 1 -> 0    
@@ -78,7 +79,7 @@ You can't have duplicate labels in your code
 The value for labels are their addresses  
 They should always ebnd with a colon
 
-### Instructions 
+### Instructions <a name="paragraph2"></a>
 Most instructions are size specific   
 
 ![5](https://user-images.githubusercontent.com/19777060/57579495-71af5600-7451-11e9-84bf-ba9a12d1ce3a.PNG)
