@@ -140,11 +140,27 @@ So, to fetch a longword it is a two step process.
 ![4](https://user-images.githubusercontent.com/19777060/57582539-c5826500-747a-11e9-8946-791b0d3fa6b0.PNG)
 
 ## Addressing Memory and Register Contents
+#### Byte Order
 ![5](https://user-images.githubusercontent.com/19777060/57582565-1b570d00-747b-11e9-9a54-6c4fc4f3342e.PNG)
 
 ![2](https://user-images.githubusercontent.com/19777060/57582585-4e999c00-747b-11e9-9a80-44c4af805910.PNG)
 
 #### Registers
+They are the high speed memeory location in CPU adn being in CPU makes them faster to access than accessing RAM.   
+M6800 has 15 general purpose registers: 8 for data **[D0-D7]** and 7 **[A0-A6]** for addresses.  
+![3](https://user-images.githubusercontent.com/19777060/57582635-1cd50500-747c-11e9-9506-cc56cdfbec8c.PNG)  
+
+Instructions only over-write the postion of the size of the register, as a byte instruction will only over-write byte size of the register and word will overwite only the word size.   
+**Byte:**  0000 00XX
+**Word:**  0000 XXXX  
+**Long Word:**  XXXX XXXX  
+
+alpha: dc.l $01234567  
+![4](https://user-images.githubusercontent.com/19777060/57582698-b8ff0c00-747c-11e9-9b8d-ec0176cba057.PNG)
+![1](https://user-images.githubusercontent.com/19777060/57582715-df24ac00-747c-11e9-94cf-290231b1317d.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57582723-f2d01280-747c-11e9-8ae2-2c9d2d36f862.PNG)
+
+![3](https://user-images.githubusercontent.com/19777060/57582737-26ab3800-747d-11e9-8ec6-922c65b66992.PNG)
 
 
 
