@@ -46,7 +46,19 @@ Assembly langauge code is divided into four sections:
 
 All programs must begin with Comments/Documention block  
 Comments in the assembler begin with \* or ;  
-****
+**Register Use** block is used to document the registers used in the program  
+Setup info is used by allocate the memory area in the assembler adn also set teh address, wehere the executable instruction will be loaded into the memory. 
+
+![1](https://user-images.githubusercontent.com/19777060/57579321-33189c00-744f-11e9-8798-1c292ef1a30f.PNG)
+
+**#minclue** import the I/O and error handling marcos
+
+![2](https://user-images.githubusercontent.com/19777060/57579366-ac17f380-744f-11e9-9923-2b32c61d7679.PNG)
+begins with **start:**  
+**initIO** macro initializes the I/O for teh system
+when the **break** instruction is encountred teh excution is halted
+Machine instructions are not **not case sensetive**
+
 
 
 
