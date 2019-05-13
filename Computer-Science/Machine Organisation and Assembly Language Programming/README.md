@@ -281,12 +281,24 @@ Branch instructions can be used to impement if/else in assembler
 ![1](https://user-images.githubusercontent.com/19777060/57590416-6eaf7680-74e0-11e9-9e62-02269c36c329.PNG)
 ![2](https://user-images.githubusercontent.com/19777060/57590412-68b99580-74e0-11e9-894e-96a03386d359.PNG)
 
-**Don't use bra at the end if teh instructions**
+**Don't use bra at the end if the instructions**
 ![4](https://user-images.githubusercontent.com/19777060/57590448-ab7b6d80-74e0-11e9-8a77-ba271ae257bf.PNG)
 
 ## Singed vs Unsigned Branches
 ![5](https://user-images.githubusercontent.com/19777060/57590490-fbf2cb00-74e0-11e9-9247-b7558f215a0a.PNG)
 
+## Hand Translation to Macine Code
+
+
+## SubRoutines 
+PLace subroutines in seprate files 
+
+In teh main program 
+foo: EQU $8000
+
+In subroutine
+ ORG: 8000
+foo
 
 
 
