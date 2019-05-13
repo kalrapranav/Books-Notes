@@ -249,6 +249,21 @@ The result of the subtractions is not stored and the values remains unchanged an
 
 ## Loops
 There are only two kinds of loops **DO** or **WHILE** loops
+WHILE (condition is true) {
+  do stuff
+}
+DO {
+  do stuff
+} (while condition is true)
+
+![4](https://user-images.githubusercontent.com/19777060/57590086-22fbcd80-74de-11e9-8756-528673206bc0.PNG)
+![1](https://user-images.githubusercontent.com/19777060/57590103-47f04080-74de-11e9-94ae-b6306bdb6382.PNG)
+
+![2](https://user-images.githubusercontent.com/19777060/57590119-6bb38680-74de-11e9-80cd-2b8a63a6e13b.PNG)
+![3](https://user-images.githubusercontent.com/19777060/57590150-99003480-74de-11e9-8e08-9821c3838145.PNG)
+
+![1](https://user-images.githubusercontent.com/19777060/57590184-d95fb280-74de-11e9-9431-0c33da67b517.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57590185-da90df80-74de-11e9-8070-b200ec3a940a.PNG)
 
 
 
