@@ -265,6 +265,27 @@ DO {
 ![1](https://user-images.githubusercontent.com/19777060/57590184-d95fb280-74de-11e9-9431-0c33da67b517.PNG)
 ![2](https://user-images.githubusercontent.com/19777060/57590185-da90df80-74de-11e9-8070-b200ec3a940a.PNG)
 
+## DBcc Loop
+![1](https://user-images.githubusercontent.com/19777060/57590235-4bd09280-74df-11e9-95bc-4441d92de470.PNG)
+
+![2](https://user-images.githubusercontent.com/19777060/57590265-7c183100-74df-11e9-816b-70a8e0868a58.PNG)
+
+#### Do loops always need cmp or tst?
+An eg where you need a copy of NULL terminated string. The stopping condition when the terminating NULL has been copied. Let the two strings in memory location be str1 (source) and str2 (destination): 
+![3](https://user-images.githubusercontent.com/19777060/57590329-e7620300-74df-11e9-9950-7ecffa03c2bf.PNG)
+
+## Conditional Execution
+Branch instructions can be used to impement if/else in assembler
+
+
+![1](https://user-images.githubusercontent.com/19777060/57590416-6eaf7680-74e0-11e9-9e62-02269c36c329.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57590412-68b99580-74e0-11e9-894e-96a03386d359.PNG)
+
+**Don't use bra at the end if teh instructions**
+![4](https://user-images.githubusercontent.com/19777060/57590448-ab7b6d80-74e0-11e9-8a77-ba271ae257bf.PNG)
+
+## Singed vs Unsigned Branches
+![5](https://user-images.githubusercontent.com/19777060/57590490-fbf2cb00-74e0-11e9-9247-b7558f215a0a.PNG)
 
 
 
@@ -283,14 +304,3 @@ DO {
 
 
 
-
-
-
-
-
-
-
-
-
-
-  
