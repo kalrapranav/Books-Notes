@@ -208,6 +208,102 @@ In the case of TRUE=1 and FALSE=0 bits are taken as a sigle peince not a unit of
 
 ![3](https://user-images.githubusercontent.com/19777060/57584614-4731bd00-7492-11e9-8328-8535cea7a35a.PNG)
 
+## Branch Instructions
+Branh instructiojs allows to repaet a certian set of instruction, an arbitrary number of times with a 
+conditional execution.
+For Branching a memory address is loaded in the program counter and with every execution teh counter is increased
+and the execuion stops when we reach at the end of the counter. 
+Most languages Suport two types of branch instructions:
+* if(consition) then goto <label>  -. Conditinal branching
+* goto <label> -> unconditional branching
+
+For Unconditional branching two set of instructions are required as: 
+1) Some condition
+2) If TRUE do this, FALSE do that
+But CPU can only perform one instruction at a time so we have to keep track of the condition as the CPU would not 
+remember the result. 
+This issue can be solved by status register
+
+#### SR (Status Register)
+SR is a 16 bit register, where the upper half is for system programming and lower half is CCR (Condition Code Register)
+CCR consist of 8 bits where the upper three bits are never used and lower five bits are used as flags.  
+The lower 5 bits and labeled as XNZVC and diffrent instructions either sets these bits to 1 or 0 and allows CPU
+to remember what was the result. 
+
+![6](https://user-images.githubusercontent.com/19777060/57586897-5bd17d80-74b1-11e9-8b52-cb70c92ba3a2.PNG)
+
+Once the CCR has been set **BCC** or Bracj Code condition are used to lead to a part of the branch. 
+There are 16 BCC
+The unconditional branch is BRA (Branch always)
+Test performed -> CCR lower Bits is set -> BCC according to the CCR bit
+
+## Branch Condition
+
+![7](https://user-images.githubusercontent.com/19777060/57586939-0d70ae80-74b2-11e9-9e27-8b3c96c898fa.PNG)
+![1](https://user-images.githubusercontent.com/19777060/57586952-4d379600-74b2-11e9-9697-9db0ea2adac1.PNG)
+
+## Condition Testing
+Testing can be done with cmp or tst  
+**tst** takes single operand to see if it is negative or zero. Then sets N or Z bit.   
+**cmp** takes two operands and subtart them from each other in order to test
+The result of the subtractions is not stored and the values remains unchanged and and CCR bit/s is/are set
+
+![2](https://user-images.githubusercontent.com/19777060/57587014-42313580-74b3-11e9-8505-c85b2910803c.PNG)
+![3](https://user-images.githubusercontent.com/19777060/57587044-99cfa100-74b3-11e9-848f-f1043a4a18d6.PNG)
+
+## Loops
+There are only two kinds of loops **DO** or **WHILE** loops
+WHILE (condition is true) {
+  do stuff
+}
+DO {
+  do stuff
+} (while condition is true)
+
+![4](https://user-images.githubusercontent.com/19777060/57590086-22fbcd80-74de-11e9-8756-528673206bc0.PNG)
+![1](https://user-images.githubusercontent.com/19777060/57590103-47f04080-74de-11e9-94ae-b6306bdb6382.PNG)
+
+![2](https://user-images.githubusercontent.com/19777060/57590119-6bb38680-74de-11e9-80cd-2b8a63a6e13b.PNG)
+![3](https://user-images.githubusercontent.com/19777060/57590150-99003480-74de-11e9-8e08-9821c3838145.PNG)
+
+![1](https://user-images.githubusercontent.com/19777060/57590184-d95fb280-74de-11e9-9431-0c33da67b517.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57590185-da90df80-74de-11e9-8070-b200ec3a940a.PNG)
+
+## DBcc Loop
+![1](https://user-images.githubusercontent.com/19777060/57590235-4bd09280-74df-11e9-95bc-4441d92de470.PNG)
+
+![2](https://user-images.githubusercontent.com/19777060/57590265-7c183100-74df-11e9-816b-70a8e0868a58.PNG)
+
+#### Do loops always need cmp or tst?
+An eg where you need a copy of NULL terminated string. The stopping condition when the terminating NULL has been copied. Let the two strings in memory location be str1 (source) and str2 (destination): 
+![3](https://user-images.githubusercontent.com/19777060/57590329-e7620300-74df-11e9-9950-7ecffa03c2bf.PNG)
+
+## Conditional Execution
+Branch instructions can be used to impement if/else in assembler
+
+
+![1](https://user-images.githubusercontent.com/19777060/57590416-6eaf7680-74e0-11e9-9e62-02269c36c329.PNG)
+![2](https://user-images.githubusercontent.com/19777060/57590412-68b99580-74e0-11e9-894e-96a03386d359.PNG)
+
+**Don't use bra at the end if the instructions**
+![4](https://user-images.githubusercontent.com/19777060/57590448-ab7b6d80-74e0-11e9-8a77-ba271ae257bf.PNG)
+
+## Singed vs Unsigned Branches
+![5](https://user-images.githubusercontent.com/19777060/57590490-fbf2cb00-74e0-11e9-9247-b7558f215a0a.PNG)
+
+## Hand Translation to Macine Code
+
+
+## SubRoutines 
+PLace subroutines in seprate files 
+
+In teh main program 
+foo: EQU $8000
+
+In subroutine
+ ORG: 8000
+foo
+
 
 
 
