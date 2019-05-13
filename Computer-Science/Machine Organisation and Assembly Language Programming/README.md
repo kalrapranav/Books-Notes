@@ -240,12 +240,15 @@ Test performed -> CCR lower Bits is set -> BCC according to the CCR bit
 
 ## Condition Testing
 Testing can be done with cmp or tst  
-**tst** takes single operand to see if it is negative or zero. Then sets N or Z bit. 
+**tst** takes single operand to see if it is negative or zero. Then sets N or Z bit.   
 **cmp** takes two operands and subtart them from each other in order to test
 The result of the subtractions is not stored and the values remains unchanged and and CCR bit/s is/are set
 
 ![2](https://user-images.githubusercontent.com/19777060/57587014-42313580-74b3-11e9-8505-c85b2910803c.PNG)
 ![3](https://user-images.githubusercontent.com/19777060/57587044-99cfa100-74b3-11e9-848f-f1043a4a18d6.PNG)
+
+## Loops
+There are only two kinds of loops **DO** or **WHILE** loops
 
 
 
