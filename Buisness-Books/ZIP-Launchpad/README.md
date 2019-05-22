@@ -21,3 +21,5 @@ We dont have a consequence of the porblem
 How easily find your potential coustomer  (make it clear and easy)  
 Perfect is very solution foucused (what are people currenty facing)  
 
+Medium for women to customise theor substription kits 
+
