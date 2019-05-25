@@ -14,7 +14,7 @@ Are you solving the porblme worth solving ?
 Do as many interviews with potential coustomer 
 review oanel can help to see that we have   
 
-Look at teh blue print of vending machine buisness 
+Look at the blue print of vending machine buisness 
 Have a hypothesis ---> validate it 
 
 We dont have a consequence of the porblem   
@@ -23,3 +23,21 @@ Perfect is very solution foucused (what are people currenty facing)
 
 Medium for women to customise theor substription kits 
 
+**24-May**
+Look over beachhead market
+Product Market Fit - Who has the p
+
+@justin_Wilcox, empathy experiment, steve blank 
+##### Early Adopters 
+People who are atively tryiing to solve the porblem that we are trying to solve  
+##### Early Majority 
+Distinguish btw the people you interview abouut who is Early adopter or Early majority
+
+* resist the urge to talk 
+look for trends 
+
+Types of questions:
+What is your experince of X ? 
+What other solutions to the problem ahve you explored 
+How don you feel when your X
+If you have a magic wand , how would you solve this problem
