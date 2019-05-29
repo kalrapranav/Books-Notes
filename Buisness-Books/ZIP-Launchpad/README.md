@@ -42,7 +42,9 @@ What other solutions to the problem ahve you explored
 How don you feel when your X
 If you have a magic wand , how would you solve this problem
 
-
 ---
+28-June
+Try to contact via app 
+domain expert - make a contact 
+Buusness casual for board meeting
 
-Domain Expert - Wax in janitorial supplies 
